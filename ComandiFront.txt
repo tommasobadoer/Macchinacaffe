@@ -1,0 +1,57 @@
+stringhe accettate da Front:
+
+StampaElenco: stampa i comandi che l'utente può inserire
+
+GetUsernameLog: stampa la richiesta all'utente di inserire il nome utente e restituisce il valore inserito
+
+GetUserPassword: stampa la richiesta all'utente di inserire la password e restituisce il valore inserito
+
+Attesa: attende che l'utente prema il tasto "invio"
+
+Eccezione: stampa il messaggio dell'eccezione che gli viene passato
+
+AccountMiss: stampa "account non trovato"
+
+LogIn: stampa la conferma del log-in
+
+AccountColegato: stampa "account già collegato"
+
+ErrorePassword: stampa il messaggio quando la password inserita è errata
+
+AccountEsistente: notifica che l'account che si vuole creare esiste già
+
+LogOut: notifica l'esecuzione del log-out
+
+Elimina: stampa "eliminato"
+
+InserisciCredito: effettua la richiesta dell'inserimento del credito e restituisce il valore inserito
+
+Fatto: stampa "effettuato"
+
+AccountCreato: notifica la creazione di un account
+
+ImpossibilitaOperazione: notifica l'impossibilità di utilizzare una funzione
+
+StampaPerManutentore: visualizza l'elenco degli ingredienti presenti nella dispensa della macchina e restituisce quello selezionato
+
+InserimentoNonValido: notifica l'errore nell'inserimento
+
+AggiornamentoDispensa: notifica l'aggiornamento della dispensa
+
+ProceduraPreparazione: stampa la procedura di preparazione delle bevande
+
+RichiestaZucchero: effettua la richiesta di inserimento del quantitativo di zucchero e restituisce il valore inserito
+
+Preleva: stampa la richiesta di prelevare il prodotto
+
+manca: stampa l'elenco degli ingredienti mancanti
+
+InserisciQuantità: richiede all'utente la quantità e restituisce il valore inserito
+
+CreditoInsufficente: notifica l’insufficienza del credito
+
+Resto: stampa il resto erogato
+
+ImpossibilitaResto: stampa l'impossibilità di erogare il Resto
+
+Dispose: effettua la Dispose degli schermi
